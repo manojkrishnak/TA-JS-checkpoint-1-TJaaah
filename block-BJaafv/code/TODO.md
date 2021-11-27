@@ -35,7 +35,7 @@ second - undefined
 let userName = 'John';
 
 function showMessage() {
-  let message = 'Hello, ' + userName;
+  let message = 'Hello, ' + userName;      
   return message;
 }
 
